@@ -1,7 +1,9 @@
-html {
+html, body {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: "TTLakes";
+    color: #1B1C21;
 }
 
 *,
@@ -20,13 +22,6 @@ html {
     font-family: "TTLakes medium";
     src: url("./fonts/TTLakes-Medium.woff");
     font-style: normal;
-}
-
-body {
-    font-family: "TTLakes";
-    margin: 0;
-    padding: 0;
-    color: #1B1C21;
 }
 
 .button {
