@@ -132,7 +132,7 @@ body {
     row-gap: 12px;
 }
 
-.contacts__mail-text {
+.contacts__mail {
     grid-row: 2 / 3;
     grid-column: 1 / -1;
 }
